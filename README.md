@@ -20,3 +20,14 @@ Este repositório contém meus projetos desenvolvidos no Visualg, com foco em l�
 Desenvolver minha base em lógica de programação.
 
 💡 Este repositório faz parte da minha jornada como desenvolvedor.
+
+## 📁 Estrutura do projeto
+Os arquivos estão organizados na pasta:
+- PROJETOS/
+
+## 📈 Evolução
+Este repositório será atualizado conforme eu evoluo em programação.
+
+---
+## 👨‍💻 Autor
+Desenvolvido por Miguel Silva
