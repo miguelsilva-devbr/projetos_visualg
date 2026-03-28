@@ -6,13 +6,16 @@ Este repositório contém meus projetos desenvolvidos no Visualg, com foco em l�
 - Estruturas condicionais (SE / SENÃO)
 - Estruturas de repetição
 - Procedimentos e parâmetros
+- Funçao
 - Algoritmos clássicos (ex: Fibonacci)
 
 ## 📌 Projetos
 - Calculadora
 - Cálculo de idade
 - Detector de peso
-- Fibonacci (básico e com procedimentos)
+- Fibonacci (básico,procedimentos e funçao)
+- Fatorial
+- Valores
 - Par ou ímpar
 - Somador com procedimentos
 
