@@ -7,6 +7,7 @@ Este repositório contém meus projetos desenvolvidos no Visualg, com foco em l�
 - Estruturas de repetição
 - Procedimentos e parâmetros
 - Funçao
+- Vetores
 - Algoritmos clássicos (ex: Fibonacci)
 
 ## 📌 Projetos
