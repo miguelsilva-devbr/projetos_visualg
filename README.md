@@ -3,8 +3,8 @@
 Este repositório contém meus projetos desenvolvidos no Visualg, com foco em lógica de programação.
 
 ## 🧠 Conteúdos abordados
-- Estruturas condicionais (SE / SENÃO)
-- Estruturas de repetição
+- Estruturas condicionais (SE / SENÃO, SENAO SE, E/OU)
+- Estruturas de repetição ( ENQUANTO,  REPITA)
 - Procedimentos e parâmetros
 - Funçao
 - Vetores
