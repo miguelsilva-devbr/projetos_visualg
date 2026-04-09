@@ -20,6 +20,7 @@ Este repositório contém meus projetos desenvolvidos no Visualg, com foco em l�
 - Valores
 - Par ou ímpar
 - Somador com procedimentos
+- sistema academico safe
 
 ## 🚀 Objetivo
 Desenvolver minha base em lógica de programação.
